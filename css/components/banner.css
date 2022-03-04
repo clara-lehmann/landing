@@ -1,0 +1,26 @@
+
+.banner {
+	background-image: url(../../images/background.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 150px 0;
+    text-align: center;
+    margin: 0px;
+
+}
+
+.banner h1 {
+
+	color: white;
+	font-size: 45px;
+	margin: 0; 
+	font-weight: bold;
+}
+
+.banner p {
+	font-size: 24px;
+	opacity: 0.7;
+	font-family: Overpass;
+	color: white;
+
+}
